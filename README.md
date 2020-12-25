@@ -1,6 +1,6 @@
-# duo_muzic
+# Duo_Muzic
 
-A new Flutter project.
+Duo Muzic
 
 ## Getting Started
 
