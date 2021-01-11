@@ -4,4 +4,4 @@ A flutter music app to listen local(offline) or online musicğŸ§ with people ğŸ§
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+RahulMore-Codes
