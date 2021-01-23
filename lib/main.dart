@@ -7,6 +7,7 @@ import 'package:provider/provider.dart';
 void main() {
   runApp(
     MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: "Duo Muzic",
       theme: ThemeData(
         primaryColor: Colors.white,
