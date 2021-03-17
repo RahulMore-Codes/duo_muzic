@@ -21,8 +21,8 @@ class MusicProvider extends ChangeNotifier {
 
   void play(SongInfo songInfo) {
     player.load(AudioSource.uri(Uri.file(songInfo.filePath)));
-    player.play();
     songName = songInfo.displayName;
+    player.play();
     notifyListeners();
   }
 
